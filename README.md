@@ -1,0 +1,5 @@
+- Fork this repo
+- Then clone your forked version to your local computer
+- Review the Classes
+- Look for TODO comemnts to complete
+  - wait for go ahead from instructor to start fixing them
