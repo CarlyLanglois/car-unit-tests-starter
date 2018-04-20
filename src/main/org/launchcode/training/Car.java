@@ -65,7 +65,7 @@ public class Car {
     /**
      * Drive the car an amount of miles. If not enough fuel, drive as far as fuel allows.
      * Adjust fuel levels based on amount needed to drive the distance requested.
-     * Add miiles to odemeter.
+     * Add miles to odometer.
      *
      * @param miles - the miles to drive
      */
